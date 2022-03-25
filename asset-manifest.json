@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/portfolio-app/static/js/main.85a0c240.chunk.js",
+    "main.js.map": "/portfolio-app/static/js/main.85a0c240.chunk.js.map",
+    "runtime-main.js": "/portfolio-app/static/js/runtime-main.ee3188bc.js",
+    "runtime-main.js.map": "/portfolio-app/static/js/runtime-main.ee3188bc.js.map",
+    "static/css/2.679831fc.chunk.css": "/portfolio-app/static/css/2.679831fc.chunk.css",
+    "static/js/2.f0c143fc.chunk.js": "/portfolio-app/static/js/2.f0c143fc.chunk.js",
+    "static/js/2.f0c143fc.chunk.js.map": "/portfolio-app/static/js/2.f0c143fc.chunk.js.map",
+    "index.html": "/portfolio-app/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/portfolio-app/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.f0c143fc.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.f0c143fc.chunk.js.LICENSE.txt",
+    "static/media/blog_bg.8ca90014.jpg": "/portfolio-app/static/media/blog_bg.8ca90014.jpg",
+    "static/media/cledor.3fbd7512.jpg": "/portfolio-app/static/media/cledor.3fbd7512.jpg",
+    "static/media/library.5d0df452.jpg": "/portfolio-app/static/media/library.5d0df452.jpg",
+    "static/media/portfolio_cledor.1e0fa660.pdf": "/portfolio-app/static/media/portfolio_cledor.1e0fa660.pdf",
+    "static/media/portfolio_library.1996d72a.pdf": "/portfolio-app/static/media/portfolio_library.1996d72a.pdf",
+    "static/media/portfolio_wah.2706ddec.pdf": "/portfolio-app/static/media/portfolio_wah.2706ddec.pdf",
+    "static/media/wah.f241407c.jpg": "/portfolio-app/static/media/wah.f241407c.jpg",
+    "static/media/work_01.7fe9d4ad.jpg": "/portfolio-app/static/media/work_01.7fe9d4ad.jpg",
+    "static/media/work_02.1b2f67f2.jpg": "/portfolio-app/static/media/work_02.1b2f67f2.jpg",
+    "static/media/work_03.0da862c5.jpg": "/portfolio-app/static/media/work_03.0da862c5.jpg",
+    "static/media/work_04.a78c8082.jpg": "/portfolio-app/static/media/work_04.a78c8082.jpg",
+    "static/media/work_05.5351a30b.jpg": "/portfolio-app/static/media/work_05.5351a30b.jpg",
+    "static/media/work_06.1fd5c7cb.jpg": "/portfolio-app/static/media/work_06.1fd5c7cb.jpg",
+    "static/media/work_07.2cf7456c.jpg": "/portfolio-app/static/media/work_07.2cf7456c.jpg",
+    "static/media/work_08.6e968b8f.jpg": "/portfolio-app/static/media/work_08.6e968b8f.jpg",
+    "static/media/work_09.66359447.jpg": "/portfolio-app/static/media/work_09.66359447.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee3188bc.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.f0c143fc.chunk.js",
+    "static/js/main.85a0c240.chunk.js"
+  ]
+}
